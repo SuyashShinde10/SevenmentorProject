@@ -26,9 +26,4 @@ A full-stack **MERN (MongoDB, Express, React, Node.js)** application designed as
 * **Database**: MongoDB (Mongoose ODM).
 * **Architecture**: MVC (Model-View-Controller).
 * **Routing**: React Router v6 (Protected Routes).
-
-* 
-
----
-
-## 📂 Folder Structure
+ 
