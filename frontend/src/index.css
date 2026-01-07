@@ -1,0 +1,27 @@
+ body {
+  background-color: #f8f9fa; /* Light gray background for contrast */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color: #343a40;
+}
+
+.card {
+  border: none; /* Minimalist card */
+  border-radius: 8px; /* Subtle rounding */
+}
+
+.btn {
+  border-radius: 6px;
+  font-weight: 500;
+  padding: 8px 16px;
+}
+
+/* Make footer stick to bottom */
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.content-wrap {
+  flex: 1;
+}
